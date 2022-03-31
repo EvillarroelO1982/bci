@@ -23,10 +23,11 @@ Los pasos que voy a describir a continuación corresponden a la configuración c
 - Clic en “Browse…” y seleccionar el proyecto.
 - Configurar Java y Maven desde las preferencias en el menú “Windows”
 - Ejecutar desde la consola posicionado en la ruta del proyecto.
-
 ```sh
 mvn clean package 
 ``` 
+- Clic derecho en el proyecto “Run As→Spring boot app”
+
 ## Pasos para poder arrancar la API
 
 - Abrir Postman
