@@ -28,7 +28,7 @@ mvn clean package
 ``` 
 - Clic derecho en el proyecto “Run As→Spring boot app”
 
-## Pasos para poder arrancar la API
+## Pasos para poder consumir la API
 
 - Abrir Postman
 - Se debe abrir un nuevo request de tipo POST
